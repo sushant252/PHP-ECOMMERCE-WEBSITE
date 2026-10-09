@@ -122,7 +122,7 @@
     <input type="hidden" name="longitude" id="longitude">
     
 
-        <button type="submit" class="btn">Register</button>
+        <button type="submit" class="btn" >Register</button>
         <a href="login.php" class="link">Already have an account? Login</a>
     </form>
 </div>
